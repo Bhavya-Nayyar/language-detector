@@ -1,1 +1,1 @@
-# language-detector
+A smple language detector made using Python.
